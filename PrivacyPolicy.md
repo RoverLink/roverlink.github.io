@@ -130,6 +130,6 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 
 ### Contacting us
 
-If you have any questions, concerns, or complaints regarding this Policy, the information we hold about you, or if you wish to exercise your rights, we encourage you to contact us using [this form](https://forms.gle/s27fFcsgsd7XN83z5)
+If you have any questions, concerns, or complaints regarding this Policy, the information we hold about you, or if you wish to exercise your rights, we encourage you to contact us using [this form](https://docs.google.com/forms/d/e/1FAIpQLSf3-GxG4VZaqvNjRCSd2oRjlfZDrbpgNp2E4m7VeXOq7upaqg/viewform?usp=sf_link)
 
 We will attempt to resolve complaints and disputes and make every reasonable effort to honor your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by applicable data protection laws.
