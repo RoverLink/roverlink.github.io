@@ -129,6 +129,6 @@ We reserve the right, but not the obligation, to: (1) monitor the app for violat
 
 ### Contacting us
 
-If you have any questions, concerns, or complaints regarding these terms, we encourage you to contact us using [this form](https://forms.gle/s27fFcsgsd7XN83z5)
+If you have any questions, concerns, or complaints regarding these terms, we encourage you to contact us using [this form](https://docs.google.com/forms/d/e/1FAIpQLSf3-GxG4VZaqvNjRCSd2oRjlfZDrbpgNp2E4m7VeXOq7upaqg/viewform?usp=sf_link)
 
 We will attempt to resolve complaints and disputes and make every reasonable effort to honor your wish.
