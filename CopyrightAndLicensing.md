@@ -1,7 +1,10 @@
-# Copyright and Licensing
+## Copyright and Licensing
 
-Resources Used
---------------
+Last updated December 11, 2022
+
+  
+
+### Resources Used
 
 Close Up Photo of a Dog - [https://www.pexels.com/photo/close-up-photo-of-a-dog-8358171/](https://www.pexels.com/photo/close-up-photo-of-a-dog-8358171/)
 
@@ -17,8 +20,7 @@ Success Animation - [https://lottiefiles.com/97240-success](https://lottiefiles.
 
 Bulldog Pawprint Silhouette - [https://silhouettegarden.com/download/bulldog-paw-print-silhouette/](https://silhouettegarden.com/download/bulldog-paw-print-silhouette/)
 
-Software and Services Used
---------------------------
+### Software and Services Used
 
 GitHub - [https://github.com/](https://github.com/)
 
@@ -44,8 +46,8 @@ Android Studio - [https://developer.android.com/studio](https://developer.androi
 
 > Android Studio is the official IDE for Android App development. It was used to write and test our code.
 
-Dependencies Used
--------
+### Dependencies Used
+
 [flutter](https://pub.dev/packages/flutter)
 
 [flutter_localizations](https://pub.dev/packages/flutter_localizations)
@@ -171,8 +173,7 @@ Dependencies Used
 [webviewx: 0.2.1](https://pub.dev/packages/webviewx)
 
 
-License
--------
+### License
 
 The MIT License (MIT)
 
