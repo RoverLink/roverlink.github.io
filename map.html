@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+.mapembed {
+    height: calc(100vh - 20px);
+    width: 100%;
+    padding-top: 0px;    
+}
+</style>
+
+<script> 
+window.onload = function getLocation() { 
+const location = new URL(window.location.href).searchParams.get('location');
+document.documentElement.style.setProperty(`--location`, location);
+document.getElementById("mapembed").src = "https://maps.google.com/maps?q=" + location + "&t=&z=15&ie=UTF8&iwloc=&output=embed";
+}
+</script>
+
+</head>
+
+<iframe class="mapembed" id="mapembed" src="" frameborder="0" ></iframe>
